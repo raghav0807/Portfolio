@@ -45,7 +45,7 @@ export const HERO = {
   name: "RAGHAV AGIWAL",
   greet: "Hello there! 👋🏻",
   description:
-    "I am a passionate full-stack developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging web experiences for over a decade.",
+    "I am a passionate full-stack web developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging web experiences for over a decade.",
 };
 
 export const PROJECTS = [
@@ -55,7 +55,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website built with React and Tailwind CSS to showcase my skills, projects, and contact information. Features responsive design and smooth navigation for an optimized user experience.",
     image: projectImage1,
-    githubLink: "https://github.com/raghav0807/Personal-Portfolio",
+    githubLink: "https://github.com/raghav0807/Portfolio",
   },
   {
     id: 2,
