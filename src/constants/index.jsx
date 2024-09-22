@@ -45,7 +45,7 @@ export const HERO = {
   name: "RAGHAV AGIWAL",
   greet: "Hello there! 👋🏻",
   description:
-    "I am a passionate frontend developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging web experiences for over a decade.",
+    "I am a passionate full-stack developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging web experiences for over a decade.",
 };
 
 export const PROJECTS = [
