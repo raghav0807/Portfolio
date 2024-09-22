@@ -61,7 +61,7 @@ export const PROJECTS = [
     id: 2,
     name: "Hotel Management System",
     description:
-      "A full-stack hotel management website built using React, Node.js, and MySQL, featuring secure JWT-based user authentication. Users can apply multiple filters to book hotels based on preferences and integrated a complaint system for resolving issues.",
+      "A full-stack hotel management website built using React, Node.js & MySQL, secure JWT-based user authentication. Users can apply multiple filters to book hotels based on preferences & integrated a complaint system.",
     image: projectImage2,
     githubLink: "https://github.com/raghav0807/Hotel-Management-Website",
   },
@@ -75,9 +75,9 @@ export const PROJECTS = [
   },
   {
     id: 4,
-    name: "Rainfall Data Analysis & Visualization",
+    name: "Rainfall Data Analysis",
     description:
-      "Designed rainfall data trends using advanced statistical methods and visualisations, allowing stakeholders to interact with historical rainfall data, thereby improving accessibility and understanding of trends.",
+      "Designed rainfall data trends using advanced statistical methods and visualisations, allowing stakeholders to interact with historical rainfall data, thereby improving accessibility & understanding of trends.",
     image: projectImage4,
     githubLink:
       "https://github.com/raghav0807/Rainfall-Data-Analysis-Visualization-",
@@ -86,7 +86,7 @@ export const PROJECTS = [
     id: 5,
     name: "Chat Application",
     description:
-      "Developed a real-time full-stack web chat application with React and node.js, integrating features implemented through multiple APIs. Enhanced user engagement and interactivity with secure authentication and customizable chat rooms.",
+      "Developed a real-time full-stack web chat application with React and node.js, integrating features through multiple APIs. Enhanced user engagement & interactivity with customizable chat rooms.",
     image: projectImage5,
     githubLink: "https://github.com/raghav0807/Hotel-Management-Website",
   },
