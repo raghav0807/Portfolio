@@ -23,7 +23,7 @@ Welcome to my personal portfolio! This project showcases my journey as a Full-St
 - **Frontend**: React, Tailwind CSS, Framer Motion
 - **Deployment**: Vercel for hosting and continuous integration
 
-## Getting Started
+<!-- ## Getting Started -->
 
 <!-- To view my portfolio, visit [my deployed portfolio](https://your-vercel-deployment-url). You can explore the various sections to learn more about my projects and skills. -->
 
