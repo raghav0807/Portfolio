@@ -110,6 +110,22 @@ export const PROJECTS = [
     image: projectImage2,
     githubLink: "https://github.com/raghav0807/Tic-Tac-Toe",
   },
+  {
+    id: 8,
+    name: "Footwear E-Commerce Website",
+    description:
+      "A responsive footwear e-commerce website built with React.js and styled using TailwindCSS. Features include dynamic product displays, filtering options, and a visually appealing UI.",
+    image: projectImage4,
+    githubLink: "https://github.com/raghav0807/Shoe-Footwear-Website",
+  },
+  {
+    id: 9,
+    name: "BuyZone Dashboard",
+    description:
+      "A responsive React.js dashboard styled with TailwindCSS, featuring dynamic charts, user profile management, and real-time data insights with theme customization.",
+    image: projectImage5,
+    githubLink: "https://github.com/raghav0807/BuyZone-Admin-Dashboard",
+  },
 ];
 
 export const BIO = [
