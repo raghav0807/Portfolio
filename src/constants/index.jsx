@@ -115,7 +115,7 @@ export const PROJECTS = [
     name: "Footwear E-Commerce Website",
     description:
       "A responsive footwear e-commerce website built with React.js and styled using TailwindCSS. Features include dynamic product displays, filtering options, and a visually appealing UI.",
-    image: projectImage4,
+    image: projectImage5,
     githubLink: "https://github.com/raghav0807/Shoe-Footwear-Website",
   },
   {
@@ -123,7 +123,7 @@ export const PROJECTS = [
     name: "Job Portal",
     description:
       "A comprehensive job portal enabling recruiters to post, update, and manage job listings efficiently. Applicants benefit from advanced search, filtering options, and seamless job application management.",
-    image: projectImage6,
+    image: projectImage1,
     githubLink: "https://github.com/raghav0807/Job-Portal",
   },
 ];
