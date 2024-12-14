@@ -88,7 +88,7 @@ export const PROJECTS = [
     description:
       "Developed a real-time full-stack web chat application with React and node.js, integrating features through multiple APIs. Enhanced user engagement & interactivity with customizable chat rooms.",
     image: projectImage5,
-    githubLink: "https://github.com/raghav0807/Hotel-Management-Website",
+    githubLink: "https://github.com/raghav0807/Chat-App",
   },
   {
     id: 6,
