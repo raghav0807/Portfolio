@@ -65,13 +65,14 @@ export const PROJECTS = [
     image: projectImage2,
     githubLink: "https://github.com/raghav0807/Hotel-Management-Website",
   },
+
   {
     id: 3,
-    name: "To-Do App",
+    name: "Chat Application",
     description:
-      "A user-friendly task management application developed with React for managing daily tasks. Users can easily add, edit, delete, and mark tasks as complete, ensuring a smooth and productive workflow.",
-    image: projectImage3,
-    githubLink: "https://github.com/raghav0807/To-Do-App",
+      "Developed a real-time full-stack web chat application with React and node.js, integrating features through multiple APIs. Enhanced user engagement & interactivity with customizable chat rooms.",
+    image: projectImage5,
+    githubLink: "https://github.com/raghav0807/Chat-App",
   },
   {
     id: 4,
@@ -82,29 +83,32 @@ export const PROJECTS = [
     githubLink:
       "https://github.com/raghav0807/Rainfall-Data-Analysis-Visualization-",
   },
+
   {
     id: 5,
-    name: "Chat Application",
+    name: "Interactive Kanban Board",
     description:
-      "Developed a real-time full-stack web chat application with React and node.js, integrating features through multiple APIs. Enhanced user engagement & interactivity with customizable chat rooms.",
-    image: projectImage5,
-    githubLink: "https://github.com/raghav0807/Chat-App",
+      "A responsive Kanban board built with React.js to organize and manage tasks dynamically. Features include grouping by status, user, or priority, custom sorting, and persistent user preferences.",
+    image: projectImage3,
+    githubLink: "https://github.com/raghav0807/Interactive-Kanban-Board",
   },
+
   {
     id: 6,
+    name: "To-Do App",
+    description:
+      "A user-friendly task management application developed with React for managing daily tasks. Users can easily add, edit, delete, and mark tasks as complete, ensuring a smooth and productive workflow.",
+    image: projectImage3,
+    githubLink: "https://github.com/raghav0807/To-Do-App",
+  },
+
+  {
+    id: 7,
     name: "Tic-Tac-Toe Game",
     description:
       "An interactive and classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The application provides an engaging and fun user experience with a clean design and responsive gameplay.",
     image: projectImage6,
     githubLink: "https://github.com/raghav0807/Tic-Tac-Toe",
-  },
-  {
-    id: 7,
-    name: "Interactive Kanban Board",
-    description:
-      "A fully responsive and feature-rich Kanban board built with React.js, designed to dynamically organize and manage tasks. Features include grouping by status, user, or priority, custom sorting, user preferences persistence, and interactive visuals such as priority badges and user availability indicators.",
-    image: projectImage3,
-    githubLink: "https://github.com/raghav0807/Interactive-Kanban-Board",
   },
 ];
 
