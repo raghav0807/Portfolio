@@ -119,12 +119,12 @@ export const PROJECTS = [
     githubLink: "https://github.com/raghav0807/Shoe-Footwear-Website",
   },
   {
-    id: 5,
-    name: "BuyZone Dashboard",
+    id: 6,
+    name: "Job Portal",
     description:
-      "A modern and responsive React.js dashboard styled with TailwindCSS, featuring dynamic charts, real-time notifications, user profile management, and customizable themes for personalized data insights.",
-    image: projectImage5,
-    githubLink: "https://github.com/raghav0807/BuyZone-Admin-Dashboard",
+      "A comprehensive job portal enabling recruiters to post, update, and manage job listings efficiently. Applicants benefit from advanced search, filtering options, and seamless job application management.",
+    image: projectImage6,
+    githubLink: "https://github.com/raghav0807/Job-Portal",
   },
 ];
 
