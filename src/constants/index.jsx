@@ -119,10 +119,10 @@ export const PROJECTS = [
     githubLink: "https://github.com/raghav0807/Shoe-Footwear-Website",
   },
   {
-    id: 9,
+    id: 5,
     name: "BuyZone Dashboard",
     description:
-      "A responsive React.js dashboard styled with TailwindCSS, featuring dynamic charts, user profile management, and real-time data insights with theme customization.",
+      "A modern and responsive React.js dashboard styled with TailwindCSS, featuring dynamic charts, real-time notifications, user profile management, and customizable themes for personalized data insights.",
     image: projectImage5,
     githubLink: "https://github.com/raghav0807/BuyZone-Admin-Dashboard",
   },
