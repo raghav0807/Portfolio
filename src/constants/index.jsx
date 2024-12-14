@@ -208,18 +208,21 @@ export const EDUCATION = [
   },
   {
     degree: "Class 12th",
-    institution: "RBSE Board",
+    institution:
+      "Navjeevan Sikshan Sansthan Senior Secondary School, Sikar (RBSE Board)",
     duration: "2019 - 2020",
     description:
       "Secured 85%, with a focus on science and mathematics, building a solid foundation for higher studies in computer science.",
   },
   {
     degree: "Class 10th",
-    institution: "RBSE Board",
+    institution:
+      "Pyari Devi Taparia Senior Secondary School, Salasar, Churu (RBSE Board)",
     duration: "2017 - 2018",
     description:
       "Achieved a score of 96.17%, showcasing strong academic performance in key subjects.",
   },
+  //   institution: "Pyari Devi Taparia Senior Secondary School, Salasar, Churu (RBSE Board)",
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
