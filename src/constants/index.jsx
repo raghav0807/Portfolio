@@ -98,7 +98,7 @@ export const PROJECTS = [
     name: "To-Do App",
     description:
       "A user-friendly task management application developed with React for managing daily tasks. Users can easily add, edit, delete, and mark tasks as complete, ensuring a smooth and productive workflow.",
-    image: projectImage3,
+    image: projectImage6,
     githubLink: "https://github.com/raghav0807/To-Do-App",
   },
 
@@ -107,7 +107,7 @@ export const PROJECTS = [
     name: "Tic-Tac-Toe Game",
     description:
       "An interactive and classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The application provides an engaging and fun user experience with a clean design and responsive gameplay.",
-    image: projectImage6,
+    image: projectImage2,
     githubLink: "https://github.com/raghav0807/Tic-Tac-Toe",
   },
 ];
