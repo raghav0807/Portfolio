@@ -98,6 +98,14 @@ export const PROJECTS = [
     image: projectImage6,
     githubLink: "https://github.com/raghav0807/Tic-Tac-Toe",
   },
+  {
+    id: 7,
+    name: "Interactive Kanban Board",
+    description:
+      "A fully responsive and feature-rich Kanban board built with React.js, designed to dynamically organize and manage tasks. Features include grouping by status, user, or priority, custom sorting, user preferences persistence, and interactive visuals such as priority badges and user availability indicators.",
+    image: projectImage3,
+    githubLink: "https://github.com/raghav0807/Interactive-Kanban-Board",
+  },
 ];
 
 export const BIO = [
