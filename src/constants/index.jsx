@@ -27,6 +27,7 @@ import { FaEnvelope, FaCode } from "react-icons/fa";
 import {
   SiMysql,
   SiJavascript,
+  SiPython,
   // SiMongodb,
   SiTailwindcss,
 } from "react-icons/si";
@@ -44,6 +45,7 @@ export const NAVIGATION_LINKS = [
 export const HERO = {
   name: "RAGHAV AGIWAL",
   greet: "Hello there! 👋🏻",
+  // ✨ A gentle reminder from Raghav Keep smiling! 😊 Your smile is priceless!!✨",
   description:
     "I am a passionate full-stack web developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging web experiences for over a decade.",
 };
@@ -83,27 +85,32 @@ export const PROJECTS = [
     githubLink:
       "https://github.com/raghav0807/Rainfall-Data-Analysis-Visualization-",
   },
-
   {
     id: 5,
+    name: "Job Portal",
+    description:
+      "A comprehensive job portal enabling recruiters to post, update, and manage job listings efficiently. Applicants benefit from advanced search, filtering options, and seamless job application management.",
+    image: projectImage3,
+    githubLink: "https://github.com/raghav0807/Job-Portal",
+  },
+  {
+    id: 6,
+    name: "Footwear E-Commerce Website",
+    description:
+      "A responsive footwear e-commerce website built with React.js and styled using TailwindCSS. Features include dynamic product displays, filtering options, and a visually appealing UI.",
+    image: projectImage6,
+    githubLink: "https://github.com/raghav0807/Shoe-Footwear-Website",
+  },
+  {
+    id: 7,
     name: "Interactive Kanban Board",
     description:
       "A responsive Kanban board built with React.js to organize and manage tasks dynamically. Features include grouping by status, user, or priority, custom sorting, and persistent user preferences.",
-    image: projectImage3,
+    image: projectImage1,
     githubLink: "https://github.com/raghav0807/Interactive-Kanban-Board",
   },
-
   {
-    id: 6,
-    name: "To-Do App",
-    description:
-      "A user-friendly task management application developed with React for managing daily tasks. Users can easily add, edit, delete, and mark tasks as complete, ensuring a smooth and productive workflow.",
-    image: projectImage6,
-    githubLink: "https://github.com/raghav0807/To-Do-App",
-  },
-
-  {
-    id: 7,
+    id: 8,
     name: "Tic-Tac-Toe Game",
     description:
       "An interactive and classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The application provides an engaging and fun user experience with a clean design and responsive gameplay.",
@@ -111,20 +118,12 @@ export const PROJECTS = [
     githubLink: "https://github.com/raghav0807/Tic-Tac-Toe",
   },
   {
-    id: 8,
-    name: "Footwear E-Commerce Website",
+    id: 9,
+    name: "To-Do App",
     description:
-      "A responsive footwear e-commerce website built with React.js and styled using TailwindCSS. Features include dynamic product displays, filtering options, and a visually appealing UI.",
+      "A user-friendly task management application developed with React for managing daily tasks. Users can easily add, edit, delete, and mark tasks as complete, ensuring a smooth and productive workflow.",
     image: projectImage5,
-    githubLink: "https://github.com/raghav0807/Shoe-Footwear-Website",
-  },
-  {
-    id: 6,
-    name: "Job Portal",
-    description:
-      "A comprehensive job portal enabling recruiters to post, update, and manage job listings efficiently. Applicants benefit from advanced search, filtering options, and seamless job application management.",
-    image: projectImage1,
-    githubLink: "https://github.com/raghav0807/Job-Portal",
+    githubLink: "https://github.com/raghav0807/To-Do-App",
   },
 ];
 
@@ -139,7 +138,7 @@ export const SKILLS = [
   {
     icon: <RiReactjsLine className="text-4xl text-cyan-400 lg:text-5xl" />,
     name: "React",
-    experience: "2+ years",
+    experience: "1+ years",
   },
   {
     icon: <SiMysql className="text-4xl text-blue-600 lg:text-5xl" />,
@@ -149,31 +148,50 @@ export const SKILLS = [
   {
     icon: <SiJavascript className="text-4xl text-yellow-500 lg:text-5xl" />,
     name: "JavaScript",
-    experience: "2+ years",
+    experience: "1+ years",
   },
   {
     icon: <SiMongodb className="text-4xl text-green-600 lg:text-5xl" />,
     name: "MongoDB",
-    experience: "1.5+ years",
+    experience: "1+ years",
   },
   {
     icon: <FaNodeJs className="text-4xl text-green-600 lg:text-5xl" />,
     name: "Node.js",
-    experience: "2+ years",
+    experience: "1+ years",
   },
   {
     icon: <SiTailwindcss className="text-4xl text-sky-400 lg:text-5xl" />,
     name: "Tailwind CSS",
-    experience: "1+ year",
+    experience: "2+ year",
   },
   {
     icon: <FaJava className="text-4xl text-orange-600 lg:text-5xl" />,
     name: "Java",
-    experience: "3+ years",
+    experience: "2+ years",
+  },
+  {
+    icon: <SiPython className="text-4xl text-blue-500 lg:text-5xl" />,
+    name: "Python",
+    experience: "1+ years",
   },
 ];
 
 export const EXPERIENCES = [
+  {
+    title: "Software Developer Intern",
+    company: "Odoo India Private Limited",
+    duration: "February 2025 - Present",
+    description:
+      "At Odoo India Private Limited, I am actively involved in developing and customizing business management applications using Odoo’s open-source ERP framework. Working with Python and JavaScript, I contribute to enhancing existing modules, implementing automation, and optimizing database performance. Collaborating with cross-functional teams, I ensure seamless integration of various business operations, improving efficiency and scalability for enterprise clients.",
+  },
+  {
+    title: "Full Stack Developer Intern",
+    company: "Site Guru",
+    duration: "November 2024 - January 2025",
+    description:
+      "As a Software Developer Intern, I contributed to various web development projects, focusing on improving site performance and user experience. Leveraging React, JavaScript, and modern frontend frameworks, I optimized UI components for better responsiveness and efficiency. I worked closely with senior developers to implement best practices, enhance SEO strategies, and refine backend integrations to streamline data flow and improve website functionality.",
+  },
   {
     title: "Software Developer Intern",
     company: "Localitaz Geofencing Innovations Private Limited",
